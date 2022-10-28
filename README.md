@@ -1,13 +1,16 @@
-<h1 align="center"> Hi 👋🏻, I'm Sahil Kullar </br> 
-</h1>
+<h1 align="center"> Hi 👋🏻, I'm Sahil Kullar </h1>
+
+---
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
- <a href="https://sahilkullar.github.io/portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://sahilkullar.github.io/portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/salkullar" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/sahil-kullar" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 ## Tech Stack 💻
+
+---
 #### Languages
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -85,12 +88,25 @@ if (codeWorking){
 ```
 
 # 📊 GitHub Stats:
+
+---
 [//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=sahilKullar&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&#41;<br/>)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilKullar&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilKullar&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahilKullar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sahilKullar&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=sahilKullar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+
+![Snake animation](https://github.com/sahilKullar/sahilKullar/blob/output/github-contribution-grid-snake.svg)
+
+![](https://visitcount.itsvg.in/api?id=sahilKullar&icon=0&color=0)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
