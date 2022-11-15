@@ -77,7 +77,7 @@
 ``` java
 if (codeWorking){
   while (codeQuality < perfectCode){
-  codeQuality++;
+    codeQuality++;
   }
 }
 // @author - Sahil Kullar
