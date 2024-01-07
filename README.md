@@ -96,7 +96,7 @@ if (codeWorking){
 
 ---
 
-![Snake animation](https://github.com/sahilKullar/sahilKullar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sahilKullar/sahilKullar/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://visitcount.itsvg.in/api?id=sahilKullar&icon=0&color=0)
 
